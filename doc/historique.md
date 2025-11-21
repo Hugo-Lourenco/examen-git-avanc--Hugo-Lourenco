@@ -1,0 +1,2 @@
+git loggit 
+git diff
